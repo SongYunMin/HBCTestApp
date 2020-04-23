@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HBCTestApp</string>
+    <string name="servicedesc">HIHITEST</string>
+    <string name="aiddescription">DISCRIPTION</string>
+</resources>
